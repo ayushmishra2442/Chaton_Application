@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etStatus" type="id" />
+    <item name="etUserName1" type="id" />
+</resources>

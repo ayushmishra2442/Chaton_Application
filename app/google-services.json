@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963375578318",
+    "firebase_url": "https://neat-roots-chatton-application-default-rtdb.firebaseio.com",
+    "project_id": "neat-roots-chatton-application",
+    "storage_bucket": "neat-roots-chatton-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963375578318:android:ab32b91064860c6121a49f",
+        "android_client_info": {
+          "package_name": "com.example.chattonapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963375578318-vauc3gfjemsrbrqr9s1njc84qegrdmpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_IzJGx6NukfieevtO6woz_1DC4MRbx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963375578318-vauc3gfjemsrbrqr9s1njc84qegrdmpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
